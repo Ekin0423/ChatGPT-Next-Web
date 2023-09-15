@@ -66,7 +66,7 @@ Current time: {{time}}`;
 export const DEFAULT_MODELS = [
   {
     name: "gpt-3.5-turbo",
-    available: true,
+    available: false,
   },
   {
     name: "gpt-3.5-turbo-0613",
