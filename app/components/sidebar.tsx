@@ -118,7 +118,7 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          Free ChatGPT-3.5
+          Free ChatGPT
         </div>
         <div className={styles["sidebar-title"]}>
           <a href="https://nb.aitom.cc" target="_blank">低价gpt-4</a>
